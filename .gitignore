@@ -1,0 +1,4 @@
+*.pth
+new_cars/
+trained_models/
+images/vgg_plot.pdf
